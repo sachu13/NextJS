@@ -1,2 +1,1 @@
-# NextJS
-Projects using NextJS
+# Sign up app using NextJS and Appwrite
